@@ -3,7 +3,7 @@
 Deployment of the vProfile Java web application on AWS using managed
 services: Elastic Beanstalk, RDS, ElastiCache, Amazon MQ, and CloudFront.
 
-![Architecture](architecture/architecture-diagram.png)
+![Architecture](architecture/architecture.png)
 
 ## 📌 Overview
 One short paragraph: what the project is, what problem it solves, and
