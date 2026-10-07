@@ -1,0 +1,12 @@
+
+DB_HOST	your RDS endpoint
+DB_PORT	3306
+DB_NAME	accounts
+DB_USER	your DB username
+DB_PASSWORD	your new password
+MEMCACHED_HOST	ElastiCache configuration endpoint
+RABBITMQ_HOST	Amazon MQ endpoint (without amqps:// and port)
+RABBITMQ_USER	MQ username
+RABBITMQ_PASSWORD	your new MQ password
+APP_ADMIN_USER	new admin username
+APP_ADMIN_PASSWORD	strong new password
