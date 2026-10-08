@@ -54,8 +54,10 @@ Route 53, VPC, IAM, Maven, Java, Tomcat
 (Only list what you really did.)
 
 ## 📸 Screenshots
-Add 4-6 images with captions: Beanstalk health, RDS, ElastiCache,
-Amazon MQ, CloudFront, and the running app.
+![Beanstalk health](screenshots/Beanstalk health.png)
+![app1](screenshots/app1.png)
+![app2](screenshots/app2.png)
+![RDS](screenshots/RDS.png)
 
 ## 🧩 Challenges & Solutions
 | Problem | Cause | Fix |
