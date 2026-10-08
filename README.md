@@ -145,4 +145,4 @@ This removes the EC2 instances, load balancer, and Auto Scaling group.
 
 
 ## 👤 Author
-Deepak Badnaware | [LinkedIn](www.linkedin.com/in/deepakbadnaware) | [GitHub](https://github.com/deepakbadnaware)
+Deepak Badnaware | [LinkedIn](https://www.linkedin.com/in/deepakbadnaware/?isSelfProfile=true) | [GitHub](https://github.com/deepakbadnaware)
