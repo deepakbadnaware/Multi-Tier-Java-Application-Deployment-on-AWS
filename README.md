@@ -54,7 +54,7 @@ Route 53, VPC, IAM, Maven, Java, Tomcat
 (Only list what you really did.)
 
 ## 📸 Screenshots
-![Beanstalk health](screenshots/Beanstalk health.png)
+![Beanstalk health](screenshots/Beanstalkhealth.png)
 ![app1](screenshots/app1.png)
 ![app2](screenshots/app2.png)
 ![RDS](screenshots/RDS.png)
